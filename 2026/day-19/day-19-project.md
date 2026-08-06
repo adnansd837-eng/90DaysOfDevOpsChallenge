@@ -129,7 +129,7 @@ crontab -l
 crontab -e
 ```
 
----
+------
 
 # What I Learned
 
@@ -139,7 +139,7 @@ crontab -e
 * I practiced combining multiple scripts into a single maintenance script.
 * I realized that automation reduces manual work and makes server management more reliable.
 
----
+------
 
 
 
