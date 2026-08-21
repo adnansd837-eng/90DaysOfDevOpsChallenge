@@ -63,13 +63,3 @@ I added:
 - Shell Scripting
 - CI/CD
 
-### My Journey
-
-I am currently working on the #90DaysOfDevOps challenge
-and sharing my daily learning and practical work.
-
-### Connect With Me
-
-- GitHub: adnansd837-eng
-- LinkedIn: linkedin.com/in/syed-adnan-
-.....
